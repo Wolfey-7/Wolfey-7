@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wolfey-7
-- 👀 I’m interested in ...html and Python Language
+- 👀 I’m interested in ...html , C++ , C and Python Language
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ... kingreg772@gmail.com
